@@ -7,6 +7,8 @@ Simple Authentication and Authorization using Auth0
 
 Follow the steps in auth0.com/docs to make a account in Auth0
 
+pnpm must be installed
+
 ```bash
   git clone https://github.com/sDaCoder/authing.git .
   pnpm install
